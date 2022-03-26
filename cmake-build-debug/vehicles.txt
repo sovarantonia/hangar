@@ -1,0 +1,6 @@
+airbus ayr555 Abc commercial 20 a
+airbus arr444 Abc commercial 15 a
+hp srr777 Point cargo 5 h
+hp stt001 Ssp mission 6 h
+boeing pgg555 Beta cargo 8 a
+pqq324 ptt111 Park cargo 13 a

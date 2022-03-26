@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="prj"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="prj">
+				<Option output="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/prj.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 prj"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="prj/fast">
+				<Option output="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/prj.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 prj/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/Airplane.cpp">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/Airplane.h">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/Helicopter.cpp">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/Helicopter.h">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/Repository.cpp">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/Repository.h">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/Service.cpp">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/Service.h">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/ServiceException.cpp">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/ServiceException.h">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/UI.cpp">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/UI.h">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/Vehicle.cpp">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/Vehicle.h">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/VehicleException.cpp">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/VehicleException.h">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/VehicleValidator.cpp">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/VehicleValidator.h">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/all_tests.cpp">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/all_tests.h">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/main.cpp">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/test_domain.cpp">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/test_domain.h">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/test_repository.cpp">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/test_repository.h">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/test_service.cpp">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/test_service.h">
+			<Option target="prj"/>
+		</Unit>
+		<Unit filename="E:/ce mai era pe laptop, poze, proiecte etc/CLionProjects/hangarul final/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
